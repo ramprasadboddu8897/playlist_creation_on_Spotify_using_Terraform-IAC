@@ -1,4 +1,4 @@
-# Breadcrumbsplaylist_creation_on_Spotify_using_Terraform
+# playlist_creation_on_Spotify_using_Terraform
 
 
 ## Project Overview
