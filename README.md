@@ -45,7 +45,8 @@ To interact with Spotify's API, you need a Client ID and Client Secret.
 2. Log in with your Spotify account.
 3. Click on "Create an App".
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/84ad6f6a-681d-4a55-a9be-d328db326720/41729937-707e-480f-af79-b988b4f92aff/Untitled.png)
+    ![1001](https://github.com/user-attachments/assets/18962952-8fa3-4cc4-9edd-93402ebb8d21)
+
     
 4. Fill in the required details and create the app.
     
@@ -57,7 +58,8 @@ To interact with Spotify's API, you need a Client ID and Client Secret.
 
 1. Click on Settings and note down the `Client ID` and `Client Secret`.
     
-    https://developer.hashicorp.com/_next/image?url=https%3A%2F%2Fcontent.hashicorp.com%2Fapi%2Fassets%3Fproduct%3Dtutorials%26version%3Dmain%26asset%3Dpublic%252Fimg%252Fterraform%252Fdeveloper.spotify.com_dashboard_login-client-secret.png%26width%3D2584%26height%3D1176&w=3840&q=75&dpl=dpl_EJfEZ5oZYthY9Di2L7wZukaXMQv2
+    ![Screenshot 2024-08-06 113626](https://github.com/user-attachments/assets/4c281c7f-0aa4-424a-a834-7ca134a951ee)
+
     
 
 ### 5. Enter Details
@@ -79,9 +81,8 @@ docker run --rm -it -p 27228:27228 --env-file ./.env ghcr.io/conradludgate/spoti
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/84ad6f6a-681d-4a55-a9be-d328db326720/b3f4a8b1-3a7c-4837-b4f7-477d63f8652a/Untitled.png)
+![1003](https://github.com/user-attachments/assets/0708664d-a4cd-4a39-8e5c-4992a2bf6534)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/84ad6f6a-681d-4a55-a9be-d328db326720/e3320b06-8ac2-4a2b-a6dd-449746bc1c61/Untitled.png)
 
 ### You should get “Authorization Successful” Message.
 
