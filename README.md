@@ -1,6 +1,5 @@
-# Creating Multiple Spotify Playlists Using Terraform
+# Breadcrumbsplaylist_creation_on_Spotify_using_Terraform
 
-https://youtu.be/LjJLZRi_zGU
 
 ## Project Overview
 
